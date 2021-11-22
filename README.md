@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-If you are interested in harmful algal bloom formation in the subarctic Canadian lakes this is the place for you! My name is Daniela Klicper, I am currently a PhD student in the Department of Geography at Wilfrid Laurier University in Waterloo, Ontario, CA. I currently reside on the shores of Lake Huron in the Town of Goderich, ON, CA. 
+If you are interested in harmful algal bloom formation in the subarctic Canadian lakes this is the place for you! My name is Daniela Klicper, I am a PhD student in the Department of Geography at Wilfrid Laurier University in Waterloo, ON, CA. I currently reside on the shores of Lake Huron in the Town of Goderich, ON, CA. 
 
 ## Proposed PhD research: Harmful Algal Bloom Formation in subarctic Jackfish Lake, Northwest Territories 
 
