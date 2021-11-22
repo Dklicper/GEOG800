@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+![1550687518137](https://user-images.githubusercontent.com/92892202/142786141-3b9da2ce-adbf-442a-afaa-3e35cdccc796.jpg)
 
-You can use the [editor on GitHub](https://github.com/Dklicper/GEOG800/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Welcome!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you are interested in harmful algal bloom formation in the subarctic Canadian lakes this is the place for you! My name is Daniela Klicper, I am currently a PhD student in the Department of Geography at Wilfrid Laurier University in Waterloo, Ontario, CA. I currently reside on the shores of Lake Huron in the Town of Goderich, ON, CA. 
 
 ### Markdown
 
